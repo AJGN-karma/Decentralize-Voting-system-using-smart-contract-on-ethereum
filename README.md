@@ -21,3 +21,7 @@ A secure, transparent, and tamper-proof voting system built using Ethereum block
 3. Open [Remix IDE](https://remix.ethereum.org/).
 4. Load `Voting.sol` from `/src/` and deploy to the local blockchain.
 5. Interact with functions: registerVoter, addCandidate, vote, getResult.
+
+# 👨‍💻 Author
+- **JEEVAN GOWDA NAVULE**  
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jeevan-gowda-navule-022524312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
